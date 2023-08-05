@@ -13,3 +13,5 @@ I learn a lot of stuff related to data science skills. This boothcamp has 10 spi
 - Python programming
 - Essential 
 - Dashboard
+
+  You can find me on LinkedLn https://www.linkedin.com/in/yanisa-boonkiew-ab0894220/
